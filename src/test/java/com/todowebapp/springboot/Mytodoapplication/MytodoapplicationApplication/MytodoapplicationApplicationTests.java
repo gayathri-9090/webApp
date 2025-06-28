@@ -1,4 +1,4 @@
-package com.todowebapp.springboot.Mytodoapplication;
+package com.todowebapp.springboot.Mytodoapplication.MytodoapplicationApplication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
